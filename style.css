@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color:burlywood;
+}
+
+header {
+    background-color: cornflowerblue;
+    padding:45px 0px 45px 25px;
+}
+
+.link-header {
+    background-color: burlywood;
+    padding:5px 10px 5px 10px;
+    text-decoration:none;
+    font-size:36px;
+}
+
+
+.social {
+    margin:20px 20px 20px 20px
+}
+
+
+
+ul {
+    background-color:burlywood;
+    font-size:24px;
+
+}
+
+li {
+    margin-bottom:20px;
+}
+
+main {
+    background-color:burlywood;
+}
+
+h1 {
+
+}
+
+p {
+    font-size:26px;
+}
+
+
+
